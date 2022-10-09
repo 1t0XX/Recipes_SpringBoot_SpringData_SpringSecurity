@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Complex_numbers.test" />
+        <module name="Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.main" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Unique_pairs_in_HashMap.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Theory.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Relationship_between_hashcode_and_equality.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" />
+        <module name="Recipes.Recipes-task-build-classes-java.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Comparing_of_boxes.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Recipes-task.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.test" />
+        <module name="Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true.test" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Theory.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.main" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Relationship_between_hashcode_and_equality.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Complex_numbers.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.test" />
+        <module name="Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Unique_pairs_in_HashMap.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.main" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-hashCode___and_equals__-Comparing_of_boxes.main" />
+        <module name="Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.main" />
+        <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Theory.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Recipes.Recipes-task-build-classes-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-reports-tests.main" target="11" />
+      <module name="Recipes.Recipes-task-build-test-results.main" target="11" />
+      <module name="Recipes.Recipes-task-build-tmp.main" target="11" />
+      <module name="Recipes.Recipes-task.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals__-Comparing_of_boxes.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals__-Complex_numbers.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals__-Relationship_between_hashcode_and_equality.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals__-Theory.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Theory.main" target="11" />
+      <module name="Recipes.Topics-hashCode___and_equals___in_Collections-Unique_pairs_in_HashMap.main" target="11" />
+      <module name="Recipes.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
